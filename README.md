@@ -22,8 +22,8 @@ By developing this calculator, one gains hands-on experience with core programmi
 3.JavaScript
 
 ## Steps followed While Deploying:
-*Firstly I built the complete project using visual studio code,then tested it on the live server extension's.
-After that I have installed the git on my system.
-After that I uploded and committed the project into my github repositry.
-The project was deployed using the github pages and tested it.
+* Firstly I built the complete project using visual studio code,then tested it on the live server extension's.
+* After that I have installed the git on my system.
+* After that I uploded and committed the project into my github repositry.
+* The project was deployed using the github pages and tested it.
 
