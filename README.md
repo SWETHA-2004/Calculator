@@ -16,7 +16,6 @@ The primary aim of this project is to create a user-friendly, web-based calculat
 By developing this calculator, one gains hands-on experience with core programming concepts such as event handling, DOM manipulation, and real-time data processing. Additionally, it provides insight into building responsive and intuitive user interfaces that enhance the overall user experience. This project is especially valuable for beginners, as it offers a meaningful and functional way to apply theoretical knowledge in a real-world scenario while also laying the groundwork for more complex web development tasks in the future.
 
 ## Web Technologies Used:
-
 1.HTML
 2.CSS
 3.JavaScript
